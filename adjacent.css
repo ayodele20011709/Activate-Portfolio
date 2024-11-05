@@ -1,0 +1,21 @@
+
+h1{
+    background-color: red;
+}
+
+
+.adjacent h1+p{
+    background-color: blue;
+    color: white;
+    textsize 28 px;
+}
+
+h2{
+    background-color: blueviolet ;
+}
+
+.adjacent h2+p{
+    background-color: black;
+    color: aqua;
+    textsize 30 px;
+}

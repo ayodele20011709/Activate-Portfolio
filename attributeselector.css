@@ -1,0 +1,12 @@
+
+
+h1[id]{
+    colour:yellow;
+    background-color: black;
+}
+
+a[class]{
+    text-decoration:none;
+    color: green;
+    background-color: black;
+}
